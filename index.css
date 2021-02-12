@@ -1,1 +1,96 @@
 /*Name: Haozhe Wu*/
+
+h1 {
+    text-align: center;
+    color: aqua;
+    background-color: blue;
+    text-decoration: underline;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    margin: auto;
+    padding: 1px;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+}
+
+#mainTitle {
+    text-transform: capitalize;
+    font-style: italic;
+    font-size: 60px;
+    font-family: Georgia, serif;
+
+    margin: auto;
+    padding: 10px;
+    border: 10px outset deepskyblue;
+    border-radius: 10px;
+
+}
+
+#name{
+    font-size: 20px;
+    color: darkorange;
+
+    margin: 10px 40% 10px 40% ;
+    padding: 10px;
+    border: 5px double red;
+    border-radius: 100px;
+}
+
+section{
+    background-color: antiquewhite;
+}
+
+#headline{
+    background-color: darkorange;
+    font-size: 40px;
+    font-style: revert;
+
+    margin: auto;
+    padding: 10px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
+#title1{
+    font-family: "Interstate Bold",Interstate,Arial,sans-serif;
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+#title2{
+    font-family: Georgia, serif;
+    font-size: 20px;
+}
+
+#author1{
+    font-family: "Roboto Thin", serif;
+    font-size: 20px;
+    color: chocolate;
+}
+
+#div3{
+    font-family: "Apple LiSung", serif;
+    font-size: 20px;
+}
+
+#news1 {
+    margin: 5px 39% 5px 39%;
+    padding: 5px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+
+    font-style: italic;
+}
+
+a {
+    text-decoration : none;
+    color: blue;
+}
+a:hover {text-decoration: underline;}
+
+
